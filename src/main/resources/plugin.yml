@@ -8,4 +8,4 @@ authors:
 description: PlaceholderAPI expansion for DonutTPA TPA settings.
 depend:
   - PlaceholderAPI
-  - DonutTPA
+  - DonutTpa
