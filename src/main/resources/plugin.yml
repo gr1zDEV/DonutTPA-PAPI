@@ -1,0 +1,11 @@
+name: DonutTPAPlaceholders
+version: ${project.version}
+main: com.donuttpa.placeholders.DonutTPAPlaceholdersPlugin
+api-version: '1.21'
+folia-supported: true
+authors:
+  - OpenAI
+description: PlaceholderAPI expansion for DonutTPA TPA settings.
+depend:
+  - PlaceholderAPI
+  - DonutTPA
